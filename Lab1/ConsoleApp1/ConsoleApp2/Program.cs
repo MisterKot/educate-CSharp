@@ -16,7 +16,7 @@ namespace ConsoleApp2
             int [] nums = new int[num.Length];
             for (int i = 0; i<num.Length; i++)
             {
-                nums[i] = num[i];
+                nums[i] = Convert.ToInt32(num[i]);
             }
 
             int compos = 1; //произведение
