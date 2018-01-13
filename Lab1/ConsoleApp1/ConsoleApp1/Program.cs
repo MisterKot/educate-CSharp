@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*  Написать программу, которая реализует диалог с пользователем:
+        запрашивает с клавиатуры три целых числа, и выводит на
+        экран произведение данных чисел в прямом и обратном порядке 
+    */
+
 namespace ConsoleApp1
 {
     class Program

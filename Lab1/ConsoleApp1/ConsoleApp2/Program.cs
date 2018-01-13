@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* Дано трехзначное число. Найти произведение его цифр. */
+
 namespace ConsoleApp2
 {
     class Program
@@ -16,7 +18,7 @@ namespace ConsoleApp2
             int [] nums = new int[num.Length];
             for (int i = 0; i<num.Length; i++)
             {
-                nums[i] = Convert.ToInt32(num[i]);
+                nums[i] = Convert.ToInt32(num[i]); 
             }
 
             int compos = 1; //произведение
