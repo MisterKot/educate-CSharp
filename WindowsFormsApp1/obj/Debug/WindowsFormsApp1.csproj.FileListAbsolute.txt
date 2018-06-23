@@ -1,0 +1,21 @@
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Roman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutBox1.resources
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TrafficLight.exe.config
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TrafficLight.exe
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TrafficLight.pdb
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TrafficLight.exe
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TrafficLight.pdb

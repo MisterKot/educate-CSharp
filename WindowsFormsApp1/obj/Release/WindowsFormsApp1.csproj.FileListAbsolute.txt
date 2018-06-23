@@ -1,0 +1,10 @@
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\TrafficLight.exe.config
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\TrafficLight.exe
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\TrafficLight.pdb
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.AboutBox1.resources
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\TrafficLight.exe
+D:\Develop\C#\Desctop projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\TrafficLight.pdb
